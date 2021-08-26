@@ -1,0 +1,21 @@
+.main-nav{
+    /* width: 100px;
+    height: 100px; */
+    display: grid;
+    /* grid-template-columns: 10rem 1fr; */
+}
+    
+.logo{
+    background-color: blue;
+    padding-left: 30px;
+    
+}
+.circle{
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    background-color: rgb(212, 18, 18);
+    left: 10px;
+    top: 10px;
+    transform: translate(-50%,-50%);
+}
